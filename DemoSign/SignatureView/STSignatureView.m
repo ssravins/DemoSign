@@ -15,6 +15,7 @@
     self = [super initWithFrame:frame];
     
     if (self) {
+        // Commented
         
     }
     return self;
